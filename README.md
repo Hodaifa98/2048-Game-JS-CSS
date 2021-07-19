@@ -1,1 +1,1 @@
-# 2048-JS-CSS
+# 2048-Game-JS-CSS
