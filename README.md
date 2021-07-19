@@ -1,4 +1,4 @@
-# 2048-Game-JS-CSS
+# 2048 Game (JS & -CSS)
 
 A little 2048 game made with JS & CSS.
 
